@@ -14,20 +14,6 @@
 - Подготовка данных для BI-систем
 - Моделирование ER-диаграмм
 
-📂 Repository Structure
-
-sql-portfolio
-
-│
-├── sales-reporting-system
-
-├── inventory-management-system
-
-├── customer-order-management-system
-
-│
-└── README.md
-
 📊 Projects
 
 1️⃣ Customer Order Management System
@@ -115,4 +101,5 @@ seed.sql
 3. Создать аналитические объекты
 - views.sql
 - functions.sql
+
 
